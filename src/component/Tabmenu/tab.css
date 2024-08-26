@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main-title h1 {
+  font-size: 30px;
+  font-weight: 600;
+}
+.img-fluid {
+  height: 220px;
+}
+
+.menu-price-book .btn {
+  font-size: 12px;
+}
+.menu-price-book h2 {
+  color: #383cc1;
+  font-size: 20px;
+}
+.item1 {
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
